@@ -12,7 +12,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@master
-    - uses: liamg/github-profile-terminal-action@main
+    - uses: x-gopher/github-profile-terminal-action@main
       with:
         feed_url: ""
         twitter_username: czytcn
