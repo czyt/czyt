@@ -1,5 +1,6 @@
  ## Who Am I
  - a Gopher 
+ - a rust beginner
  - a .Net devloper
  
  I live in chengdu,China.
