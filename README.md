@@ -2,6 +2,7 @@
  - a Gopher 
  - a rust beginner
  - a flutter & dart newbie
+ - a cpp newbie
  - a .Net devloper
  
  I live in chengdu,China.
