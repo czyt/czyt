@@ -9,7 +9,7 @@ Please visit my github org [tiny-lib](https://github.com/tiny-lib) to see the co
  
  I live in chengdu,China.
  
-[![Follow on Twitter](https://shields.io/twitter/follow/czytcn?label=Follow)](https://twitter.com/czytcn) 
+[![Follow on Twitter](https://shields.io/twitter/follow/x_czyt?label=Follow)](https://twitter.com/czytcn) 
 ## Contact
 - mail:root@czyt.tech
 - [blog](https://czyt.tech)
