@@ -1,8 +1,6 @@
  ## Who Am I
  - a Gopher 
  - a rust beginner
- - a flutter & dart newbie
- - a cpp newbie
  - a .Net devloper
 
 Please visit my github org [tiny-lib](https://github.com/tiny-lib) to see the code I have written
