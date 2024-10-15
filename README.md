@@ -12,7 +12,6 @@
 ## some thing about me
 + [blog](https://czyt.tech)
 + my libs in [lib-x](https://github.com/lib-x)
-+ my libs in [tiny-lib](https://github.com/tiny-lib)
 + my code template [tpl-x](https://github.com/tpl-x)
 + tools written by me in [ca-x](https://github.com/ca-x)
 
