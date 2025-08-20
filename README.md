@@ -5,6 +5,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/czyt/czyt/output/github-contribution-grid-snake.svg">
 </picture>
 
+<img src="https://algora.io/og/user/czyt" />
+
 [![Follow on Twitter](https://shields.io/twitter/follow/czyt?label=Follow)](https://twitter.com/czyt) 
 
 [![wakatime](https://wakatime.com/badge/user/213e95e1-d21f-44e9-8128-e1bec47d5ab6.svg)](https://wakatime.com/@213e95e1-d21f-44e9-8128-e1bec47d5ab6)
